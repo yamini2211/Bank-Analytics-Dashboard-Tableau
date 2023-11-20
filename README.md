@@ -1,1 +1,1 @@
-# Bank-Analytics-Dashboard-Tableau
+# Bank-Analytics-Dashboard-Tableau : A comprehensive dashboard for analyzing banking data using Tableau. Explore key performance indicators and gain insights into various aspects of banking operations.
