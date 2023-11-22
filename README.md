@@ -6,3 +6,4 @@
 
 # HR Analytics Dashboard in Power BI : This repository contains the files for an interactive HR analytics dashboard created using Power BI. The dashboard provides insights into key HR metrics and enables data-driven decision-making.
 
+# Bank Analytics Power BI Dashboard : This project aims to provide comprehensive insights into key financial metrics and performance indicators for a banking scenario. Feel free to explore, contribute, and adapt it to your specific needs.
